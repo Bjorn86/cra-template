@@ -1,11 +1,11 @@
 // IMPORT STYLES
-import "./App.scss";
+import './App.scss';
 
 // APP CORE COMPONENT
 function App() {
   return (
-    <div className="app__content">
-      <h1 className="title">Test</h1>
+    <div className='app__content'>
+      <h1 className='title'>Test</h1>
       <hr />
     </div>
   );
